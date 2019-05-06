@@ -1,8 +1,8 @@
 # lifelove
 ```
-git clone https://github.com/Mark-Tok/test_psyho.git
+git clone https://github.com/Mark-Tok/todoVue.git
 
-cd test_psyho
+cd todoVue
 ```
 
 ## Project setup
