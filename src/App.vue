@@ -64,7 +64,6 @@ export default {
 }
 
 .tabsChecksTitle {
-  background: #c5c5c5;
   cursor: pointer;
 }
 
